@@ -8,6 +8,8 @@ Ini adalah edisi dasar pembelajaran python sebelum membahas tentang machine lear
   <li>Python List</li>
   <li>Python Tupple</li>
   <li>Python Dictionary</li>
+  <li><b>IF ELSE ELIF</b> Statement</li>
+  <li><b>While & For</b> Looping</li>
 </ol>
 
 <b>Supported by</b> : SAFRIL SIDIK
