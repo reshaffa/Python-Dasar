@@ -8,6 +8,11 @@ Ini adalah edisi dasar pembelajaran python sebelum membahas tentang machine lear
   <li>Python List</li>
   <li>Python Tupple</li>
   <li>Python Dictionary</li>
+  <li><b>IF ELSE ELIF</b> Statement</li>
+  <li><b>While & For</b> Looping</li>
 </ol>
+
+<b>Catatan : </b>
+Ketika kita membuat sebuah modules / library baru menggunakan jupyter-notebook maka silahkan install package import-ipynb agar module yang kita buat dapat dipanggil di file lainnya. Untuk cara installnya menggunakan <strong>pip install import-ipynb</strong>
 
 <b>Supported by</b> : SAFRIL SIDIK
